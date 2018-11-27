@@ -1,0 +1,2 @@
+十一月 01, 2018 7:14:39 下午 Logger1 main
+信息: this is a log
